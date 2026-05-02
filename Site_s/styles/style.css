@@ -66,21 +66,6 @@ main
     gap: 40px;
 }
 
-.menu-elements {
-    text-decoration: none;
-    font-weight: 500;
-    font-size: 18px;
-    line-height: 93%;
-    text-transform: uppercase;
-    color: grey;
-    padding: 40px;
-}
-
-.menu-elements:hover {
-    background-color: #484848;
-    color: yellow;
-}
-
 .hero-section
  {
     margin: 0 auto;
@@ -91,7 +76,7 @@ main
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: black left center / 100% no-repeat url(ygyn5za85qd0vufktf9v2s8hun63t7pl.jpg);
+    background: black right center / 57% no-repeat url(/Site_s/styles/img/91435875436d4933im746570bcf6af6a8ugidxearhfdzi1_image\ \(1\).jpg);
 }
 
 
@@ -102,15 +87,6 @@ main
     line-height: 145%;
     color: #f6921e;
     max-width: 460px;
-}
-
-.cta-title_ {
-    font-weight: 600;
-    font-size: 48px;
-    line-height: 145%;
-    color: yellow;
-    max-width: 460px;
-    opacity: 0;
 }
 
 .cta-button {
@@ -136,7 +112,8 @@ main
     font-size: 42px;
     line-height: 125%;
     text-align: center;
-    color: #000;
+    color: #f6921e;
+    background-color: #000;
 }
 
 .products-cards {
@@ -171,7 +148,7 @@ main
 }
 
 .contact-section{
-    background: grey ;
+    background: rgb(0, 0, 0) ;
     border-radius: 16px;
     padding: 43px 0px;
     max-width: 1200px;
@@ -183,7 +160,7 @@ main
     font-weight: 500;
     font-size: 42px;
     line-height: 125%;
-    color: #000;
+    color: #f6921e;
     max-width: 80%;
     margin: 0 auto;
     display: block;
@@ -192,7 +169,7 @@ main
 .contact-text{
     line-height: 125%;
     font-size: 20px;
-    color: #000;
+    color: #ffffff;
     max-width: 80%;
     margin: 0 auto;
 }
