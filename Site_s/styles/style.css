@@ -76,9 +76,34 @@ main
     display: flex;
     flex-direction: column;
     justify-content: center;
-    background: black right center / 57% no-repeat url(/Site_s/styles/img/91435875436d4933im746570bcf6af6a8ugidxearhfdzi1_image\ \(1\).jpg);
+    background: black right center / 54% no-repeat url(/Site_s/styles/img/508716456_3197381793743005_6042138752248762974_n.jpg);
 }
 
+.contact-hero-section
+ {
+    margin: 0 auto;
+    border-radius: 32px;
+    padding: 40px;
+    max-width: 1200px;
+    min-height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black right center / 57% no-repeat url(/Site_s/styles/img/logo-trans.png);
+}
+
+.veteran-hero-section
+ {
+    margin: 0 auto;
+    border-radius: 32px;
+    padding: 40px;
+    max-width: 1200px;
+    min-height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: black right center / 57% no-repeat url(/Site_s/styles/img/images.png);
+}
 
 .cta-title
  {
@@ -174,6 +199,13 @@ main
     margin: 0 auto;
 }
 
+.contact-text-2{
+    line-height: 125%;
+    font-size: 16px;
+    color: #ffffff;
+    max-width: 40%;
+}
+
 .contact-form
  {
     display: flex;
@@ -236,7 +268,7 @@ main
     font-size: 22px;
     line-height: 28px;
     margin: 0;
-    color: yellow;
+    color: #f6921e;
 }
 
 .footer-elements
